@@ -1,0 +1,14 @@
+.first_button{
+    background-color: black;
+    color: white;
+    font-style: bold;
+}
+
+.second_button{
+    background-color: yellow;
+}
+
+.common_button{
+    font-size: 28px;
+    font-style: Helvetica, Time News Roman, sans-serif;
+}

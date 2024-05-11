@@ -1,0 +1,20 @@
+.class_odd{
+    background-color: rgb(253, 93, 93);
+    font-style: verdana, DejaVu Sans , sans-serif;
+}
+
+#num2{
+    color: blue;
+    font-size: 36px;
+}
+
+.num3{
+    font-size: 24px;
+   
+}
+
+#num4{
+    background-color: rgb(101, 239, 122);
+    font-size: 24px;
+    font-style: bold;
+}
